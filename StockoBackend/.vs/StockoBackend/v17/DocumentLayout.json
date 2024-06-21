@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Stocko\\StockoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\model\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\model\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|c:\\stocko\\stockobackend\\stockobackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DE62D7-FD81-455F-8886-748AD679FA5B}|StockoBackend\\StockoBackend.csproj|solutionrelative:stockobackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 364,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionDetail.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TransactionDetail.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\TransactionDetail.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TransactionDetail.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\TransactionDetail.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:50:02.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionHeader.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TransactionHeader.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\TransactionHeader.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TransactionHeader.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\TransactionHeader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:45:08.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Cashier.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\Cashier.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Cashier.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\Cashier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:41:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\ItemType.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\ItemType.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\ItemType.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\ItemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:38:14.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TypeDto.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\TypeDto.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\TypeDto.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\TypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:38:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\User.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\User.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:34:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\Cart.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Cart.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\Cart.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:34:46.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Model\\Item.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Model\\Item.cs",
+              "RelativeToolTip": "StockoBackend\\Model\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:11:03.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Stocko\\StockoBackend\\StockoBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StockoBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Stocko\\StockoBackend\\StockoBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StockoBackend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:10:40.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

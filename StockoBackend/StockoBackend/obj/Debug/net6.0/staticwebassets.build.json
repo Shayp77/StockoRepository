@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nCQjSaPwpbK7BNC/EX3bVD04zUOTr5lHxDnALLJYfRo=",
+  "Source": "StockoBackend",
+  "BasePath": "_content/StockoBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
