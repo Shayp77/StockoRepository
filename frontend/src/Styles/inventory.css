@@ -1,0 +1,175 @@
+/* Add this to your inventory.css file */
+
+/* Page styling */
+.inventory-page {
+  display: flex;
+  flex-direction: column;
+  background-color: #2d3a45; /* Dark background */
+  color: #ffffff; /* White text */
+  padding: 10px;
+  height: 100vh;
+  width: 80vw;
+}
+.judul1{
+  color: #91F7CC;
+}
+.garis{
+  color: white;
+  background-color: white;
+  height: 1px;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.search-bar {
+  width: 100%;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Categories styling */
+.categories {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.categories button {
+  background: rgb(255,255,255);
+  background: linear-gradient(140deg, rgba(255,255,255,1) 10%, rgba(184,207,228,1) 35%);
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.categories button:hover {
+  background-color: #0056b3;
+}
+
+/* Content styling */
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Table container styling */
+.table-container {
+  width: 60%;
+}
+
+/* Table styling */
+.inventory-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1b262f;
+  color: white;
+}
+
+.inventory-table th, .inventory-table td {
+  border: 1px solid #34495e;
+  padding: 10px;
+  text-align: left;
+}
+
+.inventory-table th {
+  background-color: #34495e;
+}
+
+/* Add item form styling */
+.add-item-form {
+  width: 35%;
+  padding: 20px;
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 10%, rgba(184,207,228,1) 35%);
+  border-radius: 5px;
+  color: white;
+  
+}
+
+.add-item-form h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.add-item-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-item-form input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #2d3a45;
+  color: white;
+}
+
+.add-item-form input::placeholder {
+  color: #aaa;
+}
+
+.add-item-form button {
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-item-form button[type="submit"] {
+  background-color: #28a745;
+  color: white;
+}
+
+.add-item-form button[type="button"] {
+  background-color: #dc3545;
+  color: white;
+}
+.butitem{
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  border: none;
+  margin: auto;
+}
+.updatebut{
+  background-color:green;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  
+  margin-right: 10px;
+}
+.deletebut{
+  background-color:red;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+.but2{
+  margin: 10px;
+}
+
+.tesmodal{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  row-gap: 20px;
+
+}
+.tesmodal input{
+  border-radius: 10px;
+  padding: 10px;
+}

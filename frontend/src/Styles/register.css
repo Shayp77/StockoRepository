@@ -1,0 +1,62 @@
+/* register.css */
+
+.register-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #1d2e4a;
+  color: white;
+  position: relative;
+}
+
+.back-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.register-form-container {
+  background-color: #fff;
+  padding: 40px 60px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 350px;
+}
+
+.register-form-container h2 {
+  margin-bottom: 30px;
+  color: #1d2e4a;
+}
+
+.register-form-container input[type="text"],
+.register-form-container input[type="email"],
+.register-form-container input[type="password"],
+.register-form-container input[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.register-form-container input[type="submit"] {
+  background-color: #1d2e4a;
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.register-form-container input[type="submit"]:hover {
+  background-color: #172b4d;
+}
+
+.register-form-container p {
+  color: red;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}

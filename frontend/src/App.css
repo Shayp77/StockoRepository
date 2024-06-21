@@ -1,0 +1,37 @@
+.App {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('Font/Roboto-Regular.ttf') format('truetype');
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.controll{
+  display: flex;
+  background-color:#223445 ;
+  color: white;
+}
+.main-content {
+  margin-left: 210px; /* Adjusted margin to match the navbar width + some padding */
+  padding: 50px;
+  height: 100vh;
+  margin-bottom: 10px;
+
+}
+.footer {
+  height: 40px;
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: auto; 
+  row-gap: 2px;
+}

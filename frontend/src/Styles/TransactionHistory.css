@@ -1,0 +1,54 @@
+/* TransactionHistory.css */
+
+.transaction-history {
+  padding: 20px;
+  width: 100%;
+}
+
+.date-filter {
+  margin-bottom: 20px;
+}
+
+.date-filter label {
+  margin-right: 10px;
+}
+
+.transaction-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transaction-table th, .transaction-table td {
+  border: 1px solid #ddd;
+  
+  padding: 8px;
+}
+
+.transaction-table th {
+  background-color: #1d252e;
+  text-align: left;
+}
+.transaction-table td{
+  align-items: center;
+  justify-content: center;
+;}
+/* TransactionDetail.css */
+
+.transaction-detail {
+  padding: 20px;
+}
+
+.detail-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.detail-table th, .detail-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.detail-table th {
+  background-color: #1d252e;
+  text-align: left;
+}
